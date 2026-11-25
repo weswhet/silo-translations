@@ -3294,6 +3294,8 @@
   "player.watchParty.versionUnavailable": "このタイトルのWatch Partyのバージョンは、このプロフィールでは利用できません。",
   "player.watchParty.watching": "{count, plural, other {Watch Party · #人が視聴中}}",
   "playlists.empty": "Webでプレイリストを作成すると視聴を開始できます。",
+  "playlists.finished": "プレイリストが終了しました。",
+  "playlists.paused": "プレイリストを続けるには「今すぐ再生」を選択してください。",
   "playlists.title": "プレイリスト",
   "playlists.unavailable": "利用不可",
   "profiles.access.allLibraries": "すべてのライブラリ",

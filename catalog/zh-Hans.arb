@@ -3294,6 +3294,8 @@
   "player.watchParty.versionUnavailable": "此个人资料无法使用Watch Party所选的此影片版本。",
   "player.watchParty.watching": "{count, plural, other {Watch Party · #人正在观看}}",
   "playlists.empty": "在网页上创建播放列表即可开始观看。",
+  "playlists.finished": "播放列表已结束。",
+  "playlists.paused": "选择“立即播放”以继续播放列表。",
   "playlists.title": "播放列表",
   "playlists.unavailable": "不可用",
   "profiles.access.allLibraries": "所有媒体库",

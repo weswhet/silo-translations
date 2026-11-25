@@ -4145,12 +4145,6 @@
     "by": "opus",
     "model": "claude-opus-5-5"
   },
-  "detail.audioButton": {
-    "source": "0d34753dc16c4ba0",
-    "value": "b3558a8e087dc1f3",
-    "by": "opus",
-    "model": "claude-opus-5-5"
-  },
   "detail.audioSpoken": {
     "source": "2c1e521147a26fab",
     "value": "dd873d348b7e7870",
@@ -5984,12 +5978,6 @@
   "detail.versionVideoCodec": {
     "source": "de9293c77f3bf3ec",
     "value": "3185ffd83b484cb5",
-    "by": "opus",
-    "model": "claude-opus-5-5"
-  },
-  "detail.versionsButton": {
-    "source": "9458246408343e93",
-    "value": "f89ea27036ac1d31",
     "by": "opus",
     "model": "claude-opus-5-5"
   },
@@ -19772,6 +19760,18 @@
   "playlists.empty": {
     "source": "f9932d0dd49e9bb0",
     "value": "f48fc125db036cb2",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "playlists.finished": {
+    "source": "f2b0dd05deca0a3c",
+    "value": "d78ac3d70c631e08",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "playlists.paused": {
+    "source": "dd321ea2fbf5d66a",
+    "value": "0edca9853c85ede1",
     "by": "opus",
     "model": "claude-opus-5-5"
   },

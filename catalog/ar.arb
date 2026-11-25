@@ -3294,6 +3294,8 @@
   "player.watchParty.versionUnavailable": "إصدار Watch Party من هذا العنوان غير متاح لهذا الملف الشخصي.",
   "player.watchParty.watching": "{count, plural, zero {Watch Party · لا مشاهدين} one {Watch Party · مشاهد واحد} two {Watch Party · مشاهدان} few {Watch Party · # مشاهدين} many {Watch Party · # مشاهدًا} other {Watch Party · # مشاهد}}",
   "playlists.empty": "أنشئ قائمة تشغيل على الويب لبدء المشاهدة.",
+  "playlists.finished": "انتهت قائمة التشغيل.",
+  "playlists.paused": "اختر «تشغيل الآن» لمتابعة قائمة التشغيل.",
   "playlists.title": "قوائم التشغيل",
   "playlists.unavailable": "غير متاح",
   "profiles.access.allLibraries": "كل المكتبات",

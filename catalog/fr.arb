@@ -3294,6 +3294,8 @@
   "player.watchParty.versionUnavailable": "La version de ce titre choisie pour la Watch Party n’est pas disponible pour ce profil.",
   "player.watchParty.watching": "{count, plural, one {Watch Party · # personne regarde} many {Watch Party · # de personnes regardent} other {Watch Party · # personnes regardent}}",
   "playlists.empty": "Créez une playlist sur le web pour commencer à regarder.",
+  "playlists.finished": "Playlist terminée.",
+  "playlists.paused": "Sélectionnez « Lire maintenant » pour continuer la playlist.",
   "playlists.title": "Playlists",
   "playlists.unavailable": "Indisponible",
   "profiles.access.allLibraries": "Toutes les bibliothèques",
