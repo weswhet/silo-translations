@@ -21287,6 +21287,24 @@
     "by": "opus",
     "model": "claude-opus-5-5"
   },
+  "playlists.empty": {
+    "source": "f9932d0dd49e9bb0",
+    "value": "449cf12ccb21b724",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "playlists.title": {
+    "source": "026197c9696dd172",
+    "value": "06c215dd5a832ff1",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "playlists.unavailable": {
+    "source": "d1b27d045988a428",
+    "value": "56fc78885521562f",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
   "profiles.access.allLibraries": {
     "source": "34246a0937e9a39c",
     "value": "dc0a776ea055c76f",
@@ -112760,6 +112778,132 @@
   "web.player.watchTogether.viewersLabel": {
     "source": "d65c165106fa44ef",
     "value": "090822ee16b587cf",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.add": {
+    "source": "e94644e41af5d198",
+    "value": "5a561b02379bee39",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.added": {
+    "source": "2dbcd2c743379054",
+    "value": "6b584f96d92163b9",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.conflict": {
+    "source": "46a38addf1b3cc04",
+    "value": "4764d65fcfbc5fe0",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.create": {
+    "source": "78e43814eb709f17",
+    "value": "ad71ddfdf1c6f5b5",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.createAndAdd": {
+    "source": "6e7b2e23015c1cb1",
+    "value": "6532f4473095f034",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.delete": {
+    "source": "7c75e4733b06dc4b",
+    "value": "357b0c9c17f29363",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.deleteDescription": {
+    "source": "0dab052d3437766e",
+    "value": "3c5cffa7bbbfaf11",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.empty": {
+    "source": "69f400c0f9083681",
+    "value": "95d6e21823acef7a",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.emptyEntries": {
+    "source": "0346fae6c82cd71f",
+    "value": "cdc723eb948be958",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.failed": {
+    "source": "84878ce9ff14cf5c",
+    "value": "5c8637e952e6af82",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.finished": {
+    "source": "85a56330f54debc4",
+    "value": "f2480829fb549120",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.loadFailed": {
+    "source": "38a6ccc15c6d77e7",
+    "value": "1c66119b32160b3c",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.moveDown": {
+    "source": "80c2a87fda2424eb",
+    "value": "39588e1553dcc952",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.moveUp": {
+    "source": "1ea240ac868de804",
+    "value": "ba42fab6916c13c2",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.name": {
+    "source": "ded42f67802357c7",
+    "value": "b4e1328a086c2430",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.playbackFailed": {
+    "source": "71186aa9a154b90c",
+    "value": "8204f5fd78bfe361",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.remove": {
+    "source": "a032835be931d436",
+    "value": "eb77d26b9a33a1e1",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.rename": {
+    "source": "6cd366acef7e6161",
+    "value": "85bb5dec32bb1271",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.subtitle": {
+    "source": "47e2e20127ba731c",
+    "value": "a4cdd9a3c40bcec4",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.title": {
+    "source": "2fe927c526922976",
+    "value": "06c215dd5a832ff1",
+    "by": "opus",
+    "model": "claude-opus-5-5"
+  },
+  "web.playlists.unavailable": {
+    "source": "db373ae904591a81",
+    "value": "2381534d1a0e09ea",
     "by": "opus",
     "model": "claude-opus-5-5"
   },
