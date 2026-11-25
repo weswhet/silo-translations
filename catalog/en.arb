@@ -27165,6 +27165,20 @@
       "apple"
     ]
   },
+  "playlists.finished": "Playlist finished.",
+  "@playlists.finished": {
+    "description": "Apple TV playlist post-roll message after the last available entry.",
+    "x-platforms": [
+      "apple"
+    ]
+  },
+  "playlists.paused": "Select Play Now to continue the playlist.",
+  "@playlists.paused": {
+    "description": "Apple TV playlist post-roll prompt when automatic continuation is paused or disabled.",
+    "x-platforms": [
+      "apple"
+    ]
+  },
   "playlists.title": "Playlists",
   "@playlists.title": {
     "description": "Label on the Apple TV private playlists screen.",
