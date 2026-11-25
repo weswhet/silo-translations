@@ -27158,6 +27158,27 @@
       "android"
     ]
   },
+  "playlists.empty": "Create a playlist on the web to start watching.",
+  "@playlists.empty": {
+    "description": "Label on the Apple TV private playlists screen.",
+    "x-platforms": [
+      "apple"
+    ]
+  },
+  "playlists.title": "Playlists",
+  "@playlists.title": {
+    "description": "Label on the Apple TV private playlists screen.",
+    "x-platforms": [
+      "apple"
+    ]
+  },
+  "playlists.unavailable": "Unavailable",
+  "@playlists.unavailable": {
+    "description": "Label on the Apple TV private playlists screen.",
+    "x-platforms": [
+      "apple"
+    ]
+  },
   "profiles.access.allLibraries": "All libraries",
   "@profiles.access.allLibraries": {
     "description": "Phone and TV: option on the profile form (create and edit) that lets the profile see every library. Paired with Choose libraries.",
@@ -146912,6 +146933,153 @@
   "web.player.watchTogether.viewersLabel": "Viewers",
   "@web.player.watchTogether.viewersLabel": {
     "description": "Web player: accessible name of the list of people in the Watch Party panel.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.add": "Add to playlist",
+  "@web.playlists.add": {
+    "description": "Web playlist management and playback: Add to playlist",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.added": "Added to playlist",
+  "@web.playlists.added": {
+    "description": "Web playlist management and playback: Added to playlist",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.conflict": "This playlist changed elsewhere. Review the latest version and try again.",
+  "@web.playlists.conflict": {
+    "description": "Web playlist management and playback: This playlist changed elsewhere. Review the latest version and try again.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.create": "Create playlist",
+  "@web.playlists.create": {
+    "description": "Web playlist management and playback: Create playlist",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.createAndAdd": "Create and add",
+  "@web.playlists.createAndAdd": {
+    "description": "Web playlist management and playback: Create and add",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.delete": "Delete playlist",
+  "@web.playlists.delete": {
+    "description": "Web playlist management and playback: Delete playlist",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.deleteDescription": "This removes the playlist and its entries, not your media.",
+  "@web.playlists.deleteDescription": {
+    "description": "Web playlist management and playback: This removes the playlist and its entries, not your media.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.empty": "No playlists yet.",
+  "@web.playlists.empty": {
+    "description": "Web playlist management and playback: No playlists yet.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.emptyEntries": "Add movies or episodes from their detail pages.",
+  "@web.playlists.emptyEntries": {
+    "description": "Web playlist management and playback: Add movies or episodes from their detail pages.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.failed": "Could not update the playlist. Try again.",
+  "@web.playlists.failed": {
+    "description": "Web playlist management and playback: Could not update the playlist. Try again.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.finished": "Playlist finished.",
+  "@web.playlists.finished": {
+    "description": "Web playlist management and playback: Playlist finished.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.loadFailed": "Could not load playlists.",
+  "@web.playlists.loadFailed": {
+    "description": "Web playlist management and playback: Could not load playlists.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.moveDown": "Move down",
+  "@web.playlists.moveDown": {
+    "description": "Web playlist management and playback: Move down",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.moveUp": "Move up",
+  "@web.playlists.moveUp": {
+    "description": "Web playlist management and playback: Move up",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.name": "Playlist name",
+  "@web.playlists.name": {
+    "description": "Web playlist management and playback: Playlist name",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.playbackFailed": "Could not continue the playlist. Try again.",
+  "@web.playlists.playbackFailed": {
+    "description": "Web playlist management and playback: Could not continue the playlist. Try again.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.remove": "Remove entry",
+  "@web.playlists.remove": {
+    "description": "Web playlist management and playback: Remove entry",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.rename": "Rename playlist",
+  "@web.playlists.rename": {
+    "description": "Web playlist management and playback: Rename playlist",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.subtitle": "Private playlists for this profile.",
+  "@web.playlists.subtitle": {
+    "description": "Web playlist management and playback: Private playlists for this profile.",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.title": "Playlists",
+  "@web.playlists.title": {
+    "description": "Web playlist management and playback: Playlists",
+    "x-platforms": [
+      "web"
+    ]
+  },
+  "web.playlists.unavailable": "Unavailable entry",
+  "@web.playlists.unavailable": {
+    "description": "Web playlist management and playback: Unavailable entry",
     "x-platforms": [
       "web"
     ]
